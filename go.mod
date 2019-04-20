@@ -137,7 +137,7 @@ require (
 	go.opencensus.io v0.19.0 // indirect
 	go.uber.org/atomic v1.3.2 // indirect
 	golang.org/x/crypto v0.0.0-20190320223903-b7391e95e576
-	golang.org/x/net v0.0.0-20190322120337-addf6b3196f6
+	golang.org/x/net v0.0.0-20190420070744-afa5a82059c6
 	golang.org/x/oauth2 v0.0.0-20190212230446-3e8b2be13635
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4
 	golang.org/x/sys v0.0.0-20190322080309-f49334f85ddc
